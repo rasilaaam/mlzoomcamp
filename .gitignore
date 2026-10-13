@@ -1,2 +1,4 @@
 shell.nix
 main.py
+multiplications.py
+data.csv
